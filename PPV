@@ -2,29 +2,29 @@
 
 #EXTINF:-1, tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" tvg-name="Hbo 2 Hd" group-title="HBO" ,Hbo 2
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/293
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO Family Hd" group-title="HBO" ,HBO Family
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" tvg-name="HBO Family Hd" group-title="HBO" ,HBO Family
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/295
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" tvg-name=Hbo HD" group-title="HBO" ,Hbo HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" tvg-name="Hbo HD" group-title="HBO" ,Hbo HD
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/23
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-name=HBO Plus" group-title="HBO" ,HBO Plus
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-name="HBO Plus" group-title="HBO" ,HBO Plus
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/294
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-name=HBO Xtreme" group-title="HBO" ,HBO Xtreme
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-name="HBO Xtreme" group-title="HBO" ,HBO Xtreme
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1145
 
-#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495772/FOX_Action_HD.png" tvg-name=Fox Action HD" group-title="FOX" ,Fox Action HD
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495772/FOX_Action_HD.png" tvg-name="Fox Action HD" group-title="FOX" ,Fox Action HD
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/300
-#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" tvg-name=Fox Comedy" group-title="FOX" ,Fox Comedy
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" tvg-name="Fox Comedy" group-title="FOX" ,Fox Comedy
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/299
-#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023497132/FOX_Family_HD.png" tvg-name=Fox Family " group-title="FOX" ,Fox Family 
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023497132/FOX_Family_HD.png" tvg-name="Fox Family " group-title="FOX" ,Fox Family 
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1146
-#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023530951/FOX_Cinema_HD.png" tvg-name=Fox HD" group-title="FOX" ,Fox HD
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023530951/FOX_Cinema_HD.png" tvg-name="Fox HD" group-title="FOX" ,Fox HD
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/298
-#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496832/FOX_Movies_HD.png" tvg-name=Fox Movies" group-title="FOX" ,Fox Movies
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496832/FOX_Movies_HD.png" tvg-name="Fox Movies" group-title="FOX" ,Fox Movies
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1149
 
-#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 01
+#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name="Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 01
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11693.mp4
-#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 02
+#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name="Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 02
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11694.mp4
 #EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 04
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11695.mp4
