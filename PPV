@@ -2,7 +2,7 @@
 
 #EXTINF:-1, tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" tvg-name="Hbo 2 Hd" group-title="HBO" ,Hbo 2
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/293
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name=HBO Family Hd" group-title="HBO" ,HBO Family
+#EXTINF:-1, tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" tvg-name="HBO Family Hd" group-title="HBO" ,HBO Family
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/295
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" tvg-name=Hbo HD" group-title="HBO" ,Hbo HD
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/23
@@ -266,10 +266,4 @@ http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11812.mp4
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11813.mp4
 #EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 122
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11814.mp4
-#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 123
-
-
-
-
-
-
+#EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name=Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 123 FIN
