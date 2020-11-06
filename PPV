@@ -1,68 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="VePlus Tv" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/150px-Venevision_Plus_Logo_2016.png" tvg-name="VePlus Tv" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/286
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Comedy Central Hd" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://graffica.info/wp-content/uploads/2018/12/comedy_central_2018_logo-970x480.png" tvg-name="Comedy Central Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5486
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Distrito Comedia" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" tvg-name="Distrito Comedia" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/8884
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="DW" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1903
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="EWTN" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://cdn.worldvectorlogo.com/logos/ewtn.svg" tvg-name="EWTN" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/9668
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Food Network Hd" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" tvg-name="Food Network Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/20
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Galavision Miami" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/150px-Galavision_Logo_2013.svg.png" tvg-name="Galavision Miami" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/3591
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Glitz" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1471989617681-Imagen.png" tvg-name="Glitz" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/296
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Hola Tv" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="http://television.com.ar/wp-content/uploads/2019/12/holatvtw.jpg" tvg-name="Hola Tv" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/2463
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Pasiones Hd" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051831335-Imagen.png" tvg-name="Pasiones Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4194
-#EXTINF:-1,Lat: Starz Comedy" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.saengernola.com/images/default-source/detail-image/shaq-detail.jpg?sfvrsn=453bc791_0" tvg-name="Starz Comed" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4207
-#EXTINF:-1,Lat: Starz East" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz.png" tvg-name="Starz East" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4203
-#EXTINF:-1,Lat: Telemundo 47 New York" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo 47 New York" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/327
-#EXTINF:-1,Lat: Telemundo 51 Miami" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo 51 Miam" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/326
-#EXTINF:-1,Lat: Telemundo Chicago" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo Chicago" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/324
-#EXTINF:-1,Lat: Telemundo Inter Hd (P)" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo Inter Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/22
-#EXTINF:-1,Lat: Telemundo Los Angeles" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo Los Angeles" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/8151
-#EXTINF:-1,Lat: Telemundo Washington DC (P)" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" tvg-name="Telemundo Washington DC" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/10237
-#EXTINF:-1,Lat: Telesur Hd (P)" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="Telesur Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5566
-#EXTINF:-1,Lat: TLNovelas" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051359807-Imagen.png" tvg-name="TLNovelas" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4195
-#EXTINF:-1,Lat: Tooncast" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest/scale-to-width-down/180?cb=20140720173926&path-prefix=es" tvg-name="Tooncast" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/287
-#EXTINF:-1,Lat: Unicable Hd" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055576209-Imagen.png" tvg-name="Unicable Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5485
-#EXTINF:-1,Lat: Unimas Miami" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/130px-Logo_UniM%C3%A1s.svg.png" tvg-name="Unimas Miam" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/3590
-#EXTINF:-1,Lat: Unimas NY" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/130px-Logo_UniM%C3%A1s.svg.png" tvg-name="Unimas NY" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/3589
-#EXTINF:-1,Lat: Univision Hd (P)" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" tvg-name="Univision Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/9669
-#EXTINF:-1,Lat: Univision Miami Hd" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" tvg-name="Univision Miami Hd" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/3588
-#EXTINF:-1,Lat: Univision New York" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" tvg-name="Univision New York" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/884
-#EXTINF:-1,Lat: Univision Washington DC (P)" group-title="INTERNACIONALES"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png}" tvg-name="Univision Washington DC" group-title="INTERNACIONALES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/10236
-
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/disney-channel.png" tvg-name="DISNEY CHANNEL" group-title="INFANTIL"
-http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/303
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/disney-channel.png" tvg-name="Disney Jr" group-title="INFANTIL"
-http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/302
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/disney-channel.png" tvg-name="Disney" group-title="INFANTIL"
-http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/301
 
 #EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/animal-planet.png" tvg-name="Animal Planet" group-title="DOCUMENTALES & EDUCATIVOS"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4412
@@ -91,14 +84,12 @@ http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/291
 #EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/history.png" tvg-name="History Channel Hd" group-title="DOCUMENTALES & EDUCATIVOS"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/292
 
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/cnn-espanol.png" tvg-name="MTV HD" group-title="INFORMATIVOS"
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1471990000531-Imagen.png" tvg-name="CNN" group-title="INFORMATIVOS"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/305
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_5pbA3U8iQdcz09uKNGQG3GgrV1vAQxUj_C6ktVEuZQT2eMdal4PNvmGT8OzJ_VM0Q=s180-rw" tvg-name="NTN 24" group-title="INFORMATIVOS"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/312
 
-#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/mtv.png" tvg-name="MTV HD" group-title="MUSICALES"
-http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5491
-
+#EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495772/FOX_Action_HD.png" tvg-name="Fox Action HD" group-title="FOX" ,Fox Action HD
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/300
 #EXTINF:-1, tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" tvg-name="Fox Comedy" group-title="FOX" ,Fox Comedy
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/299
@@ -110,6 +101,9 @@ http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/298
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1149
 #EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="Fox Series Hd" group-title="FOX"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1147
+
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/mtv.png" tvg-name="MTV HD" group-title="MUSICALES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5491
 
 #EXTINF:-1, tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" tvg-name="Hbo 2 Hd" group-title="HBO" ,Hbo 2
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/293
@@ -149,6 +143,13 @@ http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/310
 #EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/trutv.png" tvg-name="True Tv Hd" group-title="CINEMA"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5708
 
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1472072548580-Imagen.png" tvg-name="DISNEY CHANNEL" group-title="INFANTIL"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/303
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985041439-Imagen.png" tvg-name="Disney Jr" group-title="INFANTIL"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/302
+#EXTINF:-1, tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1471984841398-Imagen.png" tvg-name="Disney" group-title="INFANTIL"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/301
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-name="Directv Sports 2 HD" group-title="DEPORTES"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/332
 #EXTINF:-1, tvg-logo="https://epg.beinsports.com/us_sports/Global.svg" tvg-name="Bein Sports N" group-title="DEPORTES"
@@ -178,7 +179,7 @@ http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/886
 http://swooptv.host:2052/11699255/11699255/23957
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="ALBA XXX 2" group-title="TV ADULTOS"
 http://swooptv.host:2052/11699255/11699255/23925
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="BRAZZERS TV EUROPE" group-title="TV ADULTOS"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="O LA LA TV" group-title="TV ADULTOS"
 http://swooptv.host:2052/11699255/11699255/23956
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="HUSTLER HD" group-title="TV ADULTOS"
 http://swooptv.host:2052/11699255/11699255/23937
@@ -186,7 +187,7 @@ http://swooptv.host:2052/11699255/11699255/23937
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="HUSTLER HD 2" group-title="TV ADULTOS"
 http://188.35.9.26:2030/udp/047c
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="O LA LA TV" group-title="TV ADULTOS"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="BRAZZERS TV EUROPA" group-title="TV ADULTOS"
 http://swooptv.host:2052/11699255/11699255/23930
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/800px-Brazzers_logo.png" tvg-name="PASSION XXX" group-title="TV ADULTOS"
 http://swooptv.host:2052/11699255/11699255/23927
