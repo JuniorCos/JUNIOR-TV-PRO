@@ -24,6 +24,82 @@ http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1149
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-pZm7QfpUhzU/Vf2N_vRArOI/AAAAAAAAAJk/3aIsAhz-09U/s400/TNT_HD.png" tvg-name="TNT HD" group-title="CINEMA"
 http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/192
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-pZm7QfpUhzU/Vf2N_vRArOI/AAAAAAAAAJk/3aIsAhz-09U/s400/TNT_HD.png" tvg-name="TNT HD 2" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/311
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/aestrenar.png" tvg-name="ESTRENAR" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/19
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/aye-mundo.png" tvg-name="A&E" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1143
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/amc.png" tvg-name="AMC" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1144
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/depelicula.png" tvg-name="DE PELICULA" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4599
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/depelicula.png" tvg-name="DE PELICULA 2" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/14
+#EXTINF:-1, tvg-logo="https://www.totalmedios.com/img/noticias/2018/09/5b965cd2a443c__838x390.jpg" tvg-name="CINECANAL" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/306
+#EXTINF:-1, tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" tvg-name="SPACE HD" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/15
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fx.png" tvg-name="FX HD" group-title="CINEMA"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1148
+
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/mtv.png" tvg-name="MTV HD" group-title="MUSICALES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5491
+
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/cnn-espanol.png" tvg-name="MTV HD" group-title="INFORMATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/305
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_5pbA3U8iQdcz09uKNGQG3GgrV1vAQxUj_C6ktVEuZQT2eMdal4PNvmGT8OzJ_VM0Q=s180-rw" tvg-name="NTN 24" group-title="INFORMATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/312
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-name="Directv Sports 2 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/332
+#EXTINF:-1, tvg-logo="https://epg.beinsports.com/us_sports/Global.svg" tvg-name="Bein Sports N" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/335
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" tvg-name="Directv Sports HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/333
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn2.png" tvg-name="ESPN 2 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/6
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn3.png" tvg-name="ESPN 3 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/12
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/espn.png" tvg-name="ESPN HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/21
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fox-sports.png" tvg-name="Fox Sports 1 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/5
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fox-sports-2.png" tvg-name="Fox Sports 2 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/11
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fox-sports-3.png" tvg-name="Fox Sports 3 HD" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/297
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fox-sports.png" tvg-name="Fox Sports Colombia" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/2262
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/fox-sports.png" tvg-name="Fox Sports Premium" group-title="DEPORTES"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/2468
+
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/animal-planet.png" tvg-name="Animal Planet" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4412
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery.png" tvg-name="Discovery Espanol" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4199
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery.png" tvg-name="Discovery Familia" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1157
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery.png" tvg-name="Discovery Civilization" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/284
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/hyh-discovery.png" tvg-name="Discovery H&H" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/283
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery.png" tvg-name="Discovery Hd" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/1158
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/id.png" tvg-name="Discovery ID Hd" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/314
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery-turbo.png" tvg-name="Discovery World" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/282
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/discovery.png" tvg-name="Discovery Theater HD" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/304
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/natgeo-wild.png" tvg-name="Natgeo Wild Hd" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/13
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/filmnarts.png" tvg-name="NBC Universo" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/4361
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/natgeo.png" tvg-name="National Geographic Hd" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/291
+#EXTINF:-1, tvg-logo="https://comteco.com.bo/img/upload/canales/history.png" tvg-name="History Channel Hd" group-title="DOCUMENTALES & EDUCATIVOS"
+http://tvlatina.homeip.net:25461/0505PauL2019/srNvx5KB2w/292
 
 #EXTINF:-1, tvg-logo="https://ahoramismo.com/wp-content/uploads/2019/06/betty-en-ny-cover-18-y-19-de-junio-de-2019-1-e1560902205442.jpg?quality=65&strip=all&w=780" tvg-name="Betty en NY" group-title="BETTY EN NEW YORK" ,Betty en NY 01
 http://tvlatina.homeip.net:25461/movie/0505PauL2019/srNvx5KB2w/11693.mp4
